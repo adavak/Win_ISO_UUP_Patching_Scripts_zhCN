@@ -6,7 +6,6 @@
 19042 - 测试版本
 20xxx - 开发版本
 
-
 运行 aria2_download_windows.cmd 开始下载最新补丁并开始制作集成补丁的 ISO。下载补丁文件地址为微软官方。
 
 一些设置（位于文件夹根目录 ConvertConfig.ini）
