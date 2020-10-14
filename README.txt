@@ -6,6 +6,9 @@
 19042 - 正式发行版本
 20xxx - 开发版本
 
+与 uupdump.ml 下载下来包的区别：
+增加了 flash 和 .net 补丁包。
+
 运行 aria2_download_windows.cmd 开始下载最新补丁并开始制作集成补丁的 ISO。下载补丁文件地址为微软官方。
 
 一些设置（位于文件夹根目录 ConvertConfig.ini）
@@ -20,6 +23,9 @@ Supported Windows Version:
 19041 - Release Version (Delete soon)
 19042 - Release Version
 20xxx - Dev Version
+
+Different with uupdump.ml downloaded package:
+Added flash and .net packages.
 
 Run aria2_download_windows.cmd to start downloading the latest patches and start making ISO that integrate patches. The download patch files is from Microsoft official.
 
