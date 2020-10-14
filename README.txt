@@ -2,8 +2,8 @@
 
 17763 - 正式发行版本
 18363 - 正式发行版本
-19041 - 正式发行版本
-19042 - 测试版本
+19041 - 正式发行版本（即将删除）
+19042 - 正式发行版本
 20xxx - 开发版本
 
 运行 aria2_download_windows.cmd 开始下载最新补丁并开始制作集成补丁的 ISO。下载补丁文件地址为微软官方。
@@ -17,8 +17,8 @@ Supported Windows Version:
 
 17763 - Release Version
 18363 - Release Version
-19041 - Release Version
-19042 - Beta Version
+19041 - Release Version (Delete soon)
+19042 - Release Version
 20xxx - Dev Version
 
 Run aria2_download_windows.cmd to start downloading the latest patches and start making ISO that integrate patches. The download patch files is from Microsoft official.
