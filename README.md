@@ -7,6 +7,7 @@
 20xxx - 开发版本
 
 **与 uupdump.ml 下载下来包的区别：** 
+
 **增加了 flash 和 .net 补丁包。**
 
 运行 aria2_download_windows.cmd 开始下载最新补丁并开始制作集成补丁的 ISO。下载补丁文件地址为微软官方。
