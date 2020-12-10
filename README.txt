@@ -1,7 +1,5 @@
 支持 Windows 版本：
 
-17763 - 正式发行版本
-18363 - 正式发行版本
 19042 - 正式发行版本
 20xxx - 开发版本
 
@@ -17,8 +15,6 @@ wim2esd =1（若不想生成 install.esd 减少空间占用。耗费大量的时
 
 Supported Windows Version:
 
-17763 - Release Version
-18363 - Release Version
 19042 - Release Version
 20xxx - Dev Version
 
