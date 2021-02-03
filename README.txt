@@ -3,8 +3,8 @@
 19042 - 正式发行版本
 20xxx - 开发版本
 
-**与 uupdump.ml 下载下来包的区别：** 
-**增加了 flash 和 .net 补丁包。**
+**与 www.uupdump.net 下载下来包的区别：** 
+**增加了移除 flash 和更新 .net 补丁包。**
 
 运行 aria2_download_windows.cmd 开始下载最新补丁并开始制作集成补丁的 ISO。下载补丁文件地址为微软官方。
 
@@ -18,8 +18,8 @@ Supported Windows Version:
 19042 - Release Version
 20xxx - Dev Version
 
-**Different with uupdump.ml downloaded package:**
-**Added flash and .net packages.**
+**Different with www.uupdump.net downloaded package:**
+**Added removing flash and update .net packages.**
 
 Run aria2_download_windows.cmd to start downloading the latest patches and start making ISO that integrate patches. The download patch files is from Microsoft official.
 
@@ -34,4 +34,4 @@ wimlib (wimlib.net)
 aria2 (github.com/aria2/aria2)
 oscdimg (Microsoft)
 
-files folks from uupdump.ml
+files folks from www.uupdump.net
