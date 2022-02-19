@@ -7,12 +7,16 @@
 **与 www.uupdump.net 下载下来包的区别：** 
 **增加了更新 .net 补丁包。**
 
-运行 aria2_download_windows.cmd 开始下载最新补丁并开始制作集成补丁的 ISO。下载补丁文件地址为微软官方。
+解压后，运行 uup_download_windows.cmd 开始下载最新补丁并开始制作集成补丁的 ISO。下载补丁文件地址为微软官方。
 
 一些设置（位于文件夹根目录 ConvertConfig.ini）
 
 NetFx3 = 1（若不想集成 .net 3.5，请改成0）
 wim2esd =1（若不想生成 install.esd 减少空间占用。耗费大量的时间和计算机资源，镜像尺寸缩小25%左右，请改成0）
+
+因网络问题无法下载的，请修改 uup_download_windows.cmd 内文件第16行代理配置，例如改为：
+
+set "all_proxy=127.0.0.1:8080"
 
 Tools:
 7-zip (7-zip.org)
